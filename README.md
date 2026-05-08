@@ -14,6 +14,12 @@
  2. you can motivate here !!
  3. just chilling here !!
 
+ ### What i learned 
+
+ 1. i learned to use the keyframes !
+ 2. i learned to use the animations !
+ 3. also i learned to use java script !
+
  ### Preview
 
  ![alt text](<Screenshot 2026-05-09 015829.png>)
