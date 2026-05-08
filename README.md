@@ -13,6 +13,7 @@
  1. you can relax here hearing  music !!
  2. you can motivate here !!
  3. just chilling here !!
+ 4. for best experiance view in full screen or press F11 !!
 
  ### What i learned 
 
